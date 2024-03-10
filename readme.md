@@ -51,7 +51,7 @@ There may be some bugs due to different environments.
 
 -*loader.cql*
 
-  Includes table structure and table building statements.
+  Includes sample table structure and table building statements.
 
 # II. Deployment
 
