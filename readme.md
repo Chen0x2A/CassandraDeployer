@@ -1,4 +1,3 @@
-
 *Warning: The script contains `rm` command, please test the script fully in test environment before deploying to production.*
 
 # I. Introduction of the Project
@@ -57,7 +56,7 @@ There may be some bugs due to different environments.
 
 ## 2.1 Pull the project files to your linux home directory
 
-You should first download the jdk archive to the `$HOME/java` folder. Cassandra requires JDK version 11, and since downloading the JDK requires logging into the Apache website, it cannot be downloaded directly via script, instead, you can use scp or vscode, etc.
+You should first download the jdk archive into the  `$HOME/java`  folder. Cassandra requires JDK version 11, and since downloading the JDK requires logging into the Apache website, it cannot be downloaded directly via script, instead, you can use scp or vscode, etc.
 
 The expected structure is to have two folders under the home directory:
 
